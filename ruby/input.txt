@@ -1,0 +1,22 @@
+[
+    { 
+        "idType": "ID_ISIN", 
+        "idValue": "US4592001014" 
+    },
+    { 
+        "idType": "ID_WERTPAPIER", 
+        "idValue": "851399", 
+        "exchCode": "US" 
+    },
+    { 
+        "idType": "ID_BB_UNIQUE", 
+        "idValue": "EQ0010080100001000", 
+        "currency": "USD" 
+    },
+    { 
+        "idType": "ID_SEDOL", 
+        "idValue": "2005973", 
+        "micCode": "EDGX", 
+        "currency": "USD"
+    }
+]  
